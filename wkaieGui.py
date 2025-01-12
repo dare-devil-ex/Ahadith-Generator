@@ -9,7 +9,7 @@ class Wkaie:
     def __init__(self, root):
         self.root = root
         self.root.title("Ahadith Generator")
-        self.root.geometry("1080x1090")
+        self.root.geometry("1080x700")
         self.generator()
 
     def generator(self):
