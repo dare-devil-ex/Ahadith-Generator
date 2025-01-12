@@ -1,11 +1,14 @@
 
 # Ahadith Generator
 
-This python script generates random hadith in Terminal and Gui
+This python script generates random hadith in __Terminal__ and __Gui__
 
 ## Screenshot Terminal
 
+- **TERMINAL VERSION**
 ![](https://raw.githubusercontent.com/dare-devil-ex/Ahadith-Generator/refs/heads/main/examples/Terminal.png)
+
+- **GUI VERSION**
 ![](https://raw.githubusercontent.com/dare-devil-ex/Ahadith-Generator/refs/heads/main/examples/Gui.png)
 ## Run Locally
 
