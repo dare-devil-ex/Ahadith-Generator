@@ -1,4 +1,3 @@
-
 # Ahadith Generator
 
 This python code generates random hadith in __Terminal__ and __Gui__
