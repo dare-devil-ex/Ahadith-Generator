@@ -1,7 +1,7 @@
 
 # Ahadith Generator
 
-This python script generates random hadith in __Terminal__ and __Gui__
+This python code generates random hadith in __Terminal__ and __Gui__
 
 ## Screenshot Terminal
 
