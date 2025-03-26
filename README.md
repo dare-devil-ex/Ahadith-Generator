@@ -7,6 +7,7 @@ This python code generates random hadith in __Terminal__ and __Gui__
 **TERMINAL VERSION**
 
 
+
 ![](https://raw.githubusercontent.com/dare-devil-ex/Ahadith-Generator/refs/heads/main/examples/Terminal.png)
 
 **GUI VERSION**
